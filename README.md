@@ -7,8 +7,8 @@
 
 **Instructions:**
 To submit the assignments you can:
-* Write a report answering the questions and showing the results obtained
-* You can create your on iPython notebook, or complete the one provided in the assingment (prefered).<br> To submit you can for example convert the notebook into HTML files and then into PDF using your browser.
+* Write a report answering the questions and showing the results obtained, or
+* You can create your on iPython notebook, or complete the one provided in the assignment (prefered).<br> To submit you can, for example, convert the notebook into HTML files and then into PDF using your browser.
 ```
 ipython nbconvert --to html FILE.ipynb
 ```
